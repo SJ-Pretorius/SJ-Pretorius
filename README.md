@@ -1,6 +1,6 @@
 ## Welcome to my profile
 Please check out my repos, the current project I am working on is:
-- Virtual pet made with Java.
+- Virtual Pet made with Java.
 
 <!--
 **SJ-Pretorius/SJ-Pretorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
